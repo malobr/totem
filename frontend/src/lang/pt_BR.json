@@ -1,0 +1,22 @@
+{
+    "form0_title": "Olá, qual o seu nome?",
+    
+    "form1_title": "Como você está se sentindo hoje?",
+    "form1_option_1": "Feliz",
+    "form1_option_2": "Triste",
+    "form1_option_3": "Estressado",
+    "form1_option_4": "Com medo",
+    "form1_option_5": "Ansioso",
+    "form1_option_6": "Depressivo",
+
+    "form2_title": "Quais dos fundos coloridos é mais confortável para você?",
+    "form2_option_1": "Os dois lados",
+    "form2_option_2": "Verde",
+    "form2_option_3": "Vermelho",
+
+    "form3_title": "Qual número você vê na imagem acima?",
+    "form3_option_1": "26",
+    "form3_option_2": "12",
+    "form3_option_3": "33",
+    "form3_option_4": "72"
+}
