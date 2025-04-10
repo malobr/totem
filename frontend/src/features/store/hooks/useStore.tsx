@@ -35,8 +35,8 @@ export default function useStore() {
       description:
         "Óculos de formato retangular, perfeito para rostos arredondados.",
       modelo: "Retangular 002",
-      cor: "Prata",
-      material: "Metal",
+      cor: "Preto",
+      material: "Acetato",
       image_url: image2,
     },
     {
@@ -67,7 +67,7 @@ export default function useStore() {
       tag: "Classic",
       description: "Óculos de formato redondo, ideal para rostos quadrados.",
       modelo: "Redondo 001",
-      cor: "Preto",
+      cor: "Amarelo",
       material: "Acetato",
       image_url: image5,
     },

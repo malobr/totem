@@ -3,11 +3,11 @@ import pattern2 from "@/assets/backgrounds/bgPattern2.png"
 import pattern3 from "@/assets/backgrounds/bgPattern3.png"
 import logoAdam from "@/assets/logos/adam_white.svg"
 
-import logo1 from "@/assets/logos/logo1.svg"
-import logo2 from "@/assets/logos/logo2.svg"
-import logo3 from "@/assets/logos/logo3.svg"
-import logo4 from "@/assets/logos/logo4.svg"
-import logo5 from "@/assets/logos/logo5.svg"
+import logo1 from "@/assets/logos/mercadao.png"
+import logo2 from "@/assets/logos/diniz.png"
+import logo3 from "@/assets/logos/carol.png"
+import logo4 from "@/assets/logos/chillibeans.png"
+import logo5 from "@/assets/logos/indaia.webp"
 import logo6 from "@/assets/logos/logo6.svg"
 
 export const options = {
