@@ -15,83 +15,83 @@ type productType = {
 const products: productType[] = [
   {
     id: 1,
-    name: "Totem Padrão",
-    price: 3999.99,
+    name: "Óculos de Sol",
+    price: 399.99,
     quantity: 0,
     image:
-      "https://images.kabum.com.br/produtos/fotos/527400/console-playstation-5-sony-slim-branco-2-jogos-1000038899_1710512868_m.jpg",
+      "https://oticaventura.com.br/media/catalog/product/cache/9ba351eae7556a2f5a5b3400a4759f80/i/m/img_0686_2.jpg",
   },
   {
     id: 2,
-    name: "Totem Compacto",
-    price: 2999.99,
+    name: "Limpa Óculos",
+    price: 29.99,
     quantity: 0,
     image:
-      "https://images.kabum.com.br/produtos/fotos/726389/jogo-death-stranding-2-on-the-beach-ps5-1000047637_1741786896_m.jpg",
+      "https://down-br.img.susercontent.com/file/sg-11134201-7rcdu-lskaxlzvstvlad",
   },
   {
     id: 3,
-    name: "Impressora Térmica",
-    price: 899.99,
+    name: "Lenço de limpeza",
+    price: 8.99,
     quantity: 0,
     image:
-      "https://images.kabum.com.br/produtos/fotos/620992/monitor-gamer-lg-ultragear-27-ips-full-hd-180hz-1ms-displayport-e-hdmi-g-sync-freesync-hdr10-srgb-99-preto-27gs60f-b_1725043961_m.jpg",
+      "https://http2.mlstatic.com/D_703787-MLB82479665783_022025-C.jpg",
   },
   {
     id: 4,
-    name: "Scanner QR Code",
-    price: 499.99,
+    name: "Óculos Gatinho",
+    price: 400.99,
     quantity: 0,
     image:
-      "https://images.kabum.com.br/produtos/fotos/520289/notebook-lenovo-loq-intel-core-i5-16gb-rtx-2050-ssd-512gb-14-2k-windows-11-home-cinza-83eu0001br_1725907705_m.jpg",
+      "https://a-static.mlcdn.com.br/1500x1500/armacao-oculos-grau-feminino-gatinho-rebecca-nude-palas-eyewear/olistplus/opmhonk378s7nka4/748d234baa2e13c96a42118fa5f65ff0.jpeg",
   },
   {
     id: 5,
-    name: "Módulo NFC",
+    name: "Estojo Porta Óculos",
     price: 299.99,
     quantity: 0,
     image:
-      "https://images.kabum.com.br/produtos/fotos/520369/processador-amd-ryzen-7-5700x3d-3-6-ghz-4-1ghz-max-turbo-cache-4mb-8-nucleos-16-threads-am4-video-integrado-100-100001503wof_1708023990_m.jpg",
+      "https://reidosestojos.vtexassets.com/arquivos/ids/156122-800-auto?v=635768129751870000&width=800&height=auto&aspect=true",
   },
   {
     id: 6,
-    name: "Tela Touch 21''",
+    name: "Lentes de Contato",
     price: 1299.99,
     quantity: 0,
     image:
-      "https://images.kabum.com.br/produtos/fotos/634677/iphone-16-pro-max-256gb-titanio-deserto_1726860800_m.jpg",
+      "https://drmurilodomingues.com.br/wp-content/uploads/2017/10/lente-de-contato-rigida-em-curitiba.jpg",
   },
   {
     id: 7,
-    name: "Tela Touch 27''",
-    price: 1899.99,
+    name: "Óculos Infantil",
+    price: 899.99,
     quantity: 0,
     image:
-      "https://images.kabum.com.br/produtos/fotos/sync_mirakl/693561/medium/Gabinete-Gamer-Ryvel-Cube-Screen-Mid-Tower-ATX-micro-ATX-e-mini-ITX-Vidro-Temperado_1742219436.png",
+      "https://officina7.fbitsstatic.net/img/p/oculos-de-grau-ray-ban-infantil-ry1628-3951-48-89656/279961.jpg?w=1200&h=960&v=no-change&qs=ignore",
   },
   {
     id: 8,
-    name: "Gabinete em Aço",
+    name: "Lentes para Óculos de sol",
     price: 799.99,
     quantity: 0,
     image:
-      "https://images.kabum.com.br/produtos/fotos/620992/monitor-gamer-lg-ultragear-27-ips-full-hd-180hz-1ms-displayport-e-hdmi-g-sync-freesync-hdr10-srgb-99-preto-27gs60f-b_1725043961_m.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIZwSWTAeKhk5AbnipZkMDYVoij5bNzmWePw&s",
   },
   {
     id: 9,
-    name: "Software de Gerenciamento",
+    name: "Óculos de sol Espelhado",
     price: 1499.99,
     quantity: 0,
     image:
-      "https://images.kabum.com.br/produtos/fotos/369658/fonte-msi-mag-a650bn-atx-650w-80-plus-bronze-pfc-ativo-entrada-bivolt-preto-306-7zp2b22-ce0_1665770996_m.jpg",
+      "https://espacoshop.com/cdn/shop/products/oculos-espelhado-redondo-240524.jpg?v=1694026566",
   },
   {
     id: 10,
-    name: "Bateria Backup",
-    price: 699.99,
+    name: "Corda para segurar Óculos",
+    price: 39.99,
     quantity: 0,
     image:
-      "https://images.kabum.com.br/produtos/fotos/470987/placa-de-video-rtx-4060-eagle-oc-gigabyte-nvidia-geforce-8gb-gdrr6-dlss-ray-tracing-gv-n4060eagle-oc-8gd_1687981181_m.jpg",
+      "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lwfwl6ywrdsie5",
   },
 ];
 
