@@ -10,7 +10,7 @@ export default function Logo() {
         <img
           id={"logoid"}
           src={logo.src}
-          className="max-w-[350px] w-full drop-shadow-[1px_1px_10px_rgba(255,255,255,0.6)] lg:max-w-[200px]"
+          className="max-w-[270px] w-full drop-shadow-[1px_1px_10px_rgba(255,255,255,0.6)] lg:max-w-[200px]"
         />
       )}
     </>
